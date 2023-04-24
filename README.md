@@ -1,6 +1,6 @@
 <h1 align="center">Pink Moon Atelier</h1>
 
-Unofficial Pink Moon Atelier Website for Snapchat
+<h6 align = "center"> Unofficial Pink Moon Atelier Website for Snapchat</h6>
 <p align="center">
     <img width="400" src="https://user-images.githubusercontent.com/124644615/234117781-e5dc77a8-e784-47e5-9e25-966291a795cd.png" alt="Pink Moon Atelier logo">
 </p>
