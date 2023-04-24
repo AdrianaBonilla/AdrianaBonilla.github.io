@@ -2,7 +2,7 @@
 
 Unofficial Pink Moon Atelier Website for Snapchat
 <p align="center">
-    <img width="300" src="https://user-images.githubusercontent.com/124644615/234117781-e5dc77a8-e784-47e5-9e25-966291a795cd.png" alt="Pink Moon Atelier logo">
+    <img width="400" src="https://user-images.githubusercontent.com/124644615/234117781-e5dc77a8-e784-47e5-9e25-966291a795cd.png" alt="Pink Moon Atelier logo">
 </p>
 <h2 align="center">About Pink Moon Atelier</h2>
 
