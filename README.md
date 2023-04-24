@@ -7,7 +7,9 @@
 <h2 align="center">About Pink Moon Atelier</h2>
 
 We are a small business run by women who love spreading awareness about Kawaii fashion and art! We are located in Bellflower within the county of Los Angeles. Feel free to visit us and check out our collaboration pieces!
-
+<html>
+<head>
+<style>
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
@@ -60,6 +62,8 @@ div.desc {
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
+</body>
+</html>
 
 
 
