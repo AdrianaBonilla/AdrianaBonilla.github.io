@@ -7,64 +7,6 @@
 <h2 align="center">About Pink Moon Atelier</h2>
 
 We are a small business run by women who love spreading awareness about Kawaii fashion and art! We are located in Bellflower within the county of Los Angeles. Feel free to visit us and check out our collaboration pieces!
-<html>
-<head>
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
-</head>
-<body>
-
-<div class="gallery">
-  <a target="![s739133019349495523_p805_i20_w651](https://user-images.githubusercontent.com/124644615/234133001-01d16f00-f8f5-4ad1-9f34-7bba13d5866a.png)"
->
-    <img src="img_5terre.jpg" alt="Fashion Preorders" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-</body>
-</html>
-
 
 
 
