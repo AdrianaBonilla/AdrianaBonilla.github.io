@@ -1,5 +1,6 @@
 * {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
 }
 .page-header {
     padding: 5rem 6rem;
@@ -9,18 +10,29 @@
     text-align: center;
     background-image: linear-gradient(120deg, rgb(95, 2, 95), pink);
 }
-
 body {
     margin: 0;
   }
   h1 {
     font-size: 2em;
     margin: 0.67em 0;
+    color: 
   }
+  
   p {
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+}
+.main-content {
+    word-wrap: break-word;
+}
+.business-desc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 500px;
+    margin-right: 500px;
 }
