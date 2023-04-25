@@ -29,11 +29,7 @@ p {
   word-wrap: break-word;
 }
 .business-desc {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-left: 500px;
-  margin-right: 500px;
+  text-align: center;
 }
 .purple-text {
   color: #660a64;
@@ -41,14 +37,14 @@ p {
 .project-container {
   left: 0;
   right: 0;
-  background: #f4c2c2;
+  background: white;
   height: 500px;
   margin-top: 10%;
   display: flex;
   position: absolute;
   align-items: center;
   justify-content: center;
-  gap: 40px;
+  gap: 80px;
   background-image: linear-gradient(120deg, rgb(95, 2, 95), pink);
 }
 .button-62 {
@@ -73,25 +69,6 @@ p {
   touch-action: manipulation;
   white-space: nowrap;
 }
-button-container {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.project-container {
-  left: 0;
-  right: 0;
-  background: white;
-  height: 500px;
-  margin-top: 10%;
-  display: flex;
-  position: absolute;
-  align-items: center;
-  justify-content: center;
-  gap: 40px;
-  background-image: linear-gradient(120deg, rgb(95, 2, 95), pink);
-}
-
 .button-62:not([disabled]):focus {
   box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
     -0.125rem -0.125rem 1rem rgb(95, 2, 95),
@@ -101,4 +78,28 @@ button-container {
   box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
     -0.125rem -0.125rem 1rem rgb(95, 2, 95),
     0.125rem 0.125rem 1rem pink;
+}
+.button-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.image-containers {
+  height: 265px;
+  width: 200px;
+  border: 3px white solid;
+  box-shadow: 2px 2px 2px 2px black;
+  border-radius: 8%;
+  }
+.info {
+  text-align: center;
+}
+.text {
+  margin-top: 40px;
+  font-size: 20px;
+  color: white;
+}
+.pink-moon {
+  border: 4px solid gray;
+  background-color: gray;
 }
